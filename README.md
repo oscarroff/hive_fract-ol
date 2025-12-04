@@ -1,6 +1,10 @@
 # hive_fract-ol
 fract-ol project for Hive, Helsinki
 
+<img width="500" height="500" alt="Screenshot 2025-12-04 at 23 38 20" src="https://github.com/user-attachments/assets/4dd6d653-5e52-4124-be0c-da386c7c425b" />
+<img width="500" height="500" alt="Screenshot 2025-12-04 at 23 39 14" src="https://github.com/user-attachments/assets/c57fcd31-d485-4d38-9dcb-a8b1e9e6efd6" />
+<img width="500" height="500" alt="Screenshot 2025-12-04 at 23 39 43" src="https://github.com/user-attachments/assets/9ba46bfd-18a6-4f2d-8cc1-ca0de1a4ec60" />
+
 ## Usage
 Specify which fractal set you wish to visualise.
 
