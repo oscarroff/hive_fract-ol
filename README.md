@@ -4,6 +4,7 @@ fract-ol project for Hive, Helsinki
 <img width="500" height="500" alt="Screenshot 2025-12-04 at 23 38 20" src="https://github.com/user-attachments/assets/4dd6d653-5e52-4124-be0c-da386c7c425b" />
 <img width="500" height="500" alt="Screenshot 2025-12-04 at 23 39 14" src="https://github.com/user-attachments/assets/c57fcd31-d485-4d38-9dcb-a8b1e9e6efd6" />
 <img width="500" height="500" alt="Screenshot 2025-12-04 at 23 39 43" src="https://github.com/user-attachments/assets/9ba46bfd-18a6-4f2d-8cc1-ca0de1a4ec60" />
+<img width="500" height="500" alt="Screenshot 2025-12-04 at 23 44 30" src="https://github.com/user-attachments/assets/825e89f7-c9ac-4e00-81e1-d67d36b89a00" />
 
 ## Usage
 Specify which fractal set you wish to visualise.
