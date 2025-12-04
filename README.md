@@ -7,16 +7,16 @@ fract-ol project for Hive, Helsinki
 <img width="300" height="300" alt="Screenshot 2025-12-04 at 23 44 30" src="https://github.com/user-attachments/assets/825e89f7-c9ac-4e00-81e1-d67d36b89a00" />
 
 ## Usage
-Specify which fractal set you wish to visualise.
+Specify which fractal set you wish to visualise:
 
 ### Mandelbrot
-For the Mandelbrot set pass "m", "M", "mandelbrot" or "Mandelbrot" as an argument. e.g. "./fractol m"
+For the Mandelbrot set pass "m", "M", "mandelbrot" or "Mandelbrot" as an argument. e.g. `./fractol m`
 
 ### Julia
-For the Julia set pass "j", "J", "julia", or "Julia" as the first argument PLUS 2 float values (best results between -1.0 and 1.0) for the constant in the order c-real, c-imaginary. e.g. "./fractol julia 0.1 -0.7"
+For the Julia set pass "j", "J", "julia", or "Julia" as the first argument PLUS 2 float values (best results between -1.0 and 1.0) for the constant in the order c-real, c-imaginary. e.g. `./fractol julia 0.1 -0.7`
 
 For help with controls use the argument:
-"-help". e.g. "./fractol -help"
+"-help". e.g. `./fractol -help`
 
 ## Fractals
 ...are super cool. That's why I chose this project. The internet doesn't need more videos of zooming through nether regions of the mandlebrot any more than it needs more pictures of cats. But the challenge of calculating and visualising fractals using C was fun challenge and it tickled my mathmatical fancy (and I got to do some nether noodling while I was at it).
